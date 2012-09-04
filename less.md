@@ -6,3 +6,8 @@ starting, important in working with large files. It uses `vi` commands
 to search and page through the file.
 
 # Challenges
+
+* Display the contents of `demo/henry5.txt`
+
+#TODO
+* Need a longer file to page through

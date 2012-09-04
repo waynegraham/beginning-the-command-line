@@ -17,3 +17,4 @@ the `demo` dir. No other commands (or pipes, etc) are allowed.
 * List all top-level files and directories, 1 per line
 * List every file or directory in every top-level directory, one level deep
 * List every file in every directory, to an arbitrary depth, without using `**`.
+* List the size of all the files in `demo`.
